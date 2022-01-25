@@ -1,16 +1,14 @@
 ### Hi there 👋
+I'm Mário Rodrigues*. Before you dive into my profile, here are a few things I want you to know about me!
 
-<!--
-**MarioRodrigues10/MarioRodrigues10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💁‍♂️‍ I am a 18-year-old boy!
+📖  I am a student at Universidade do Minho in Braga, PT. I am currently in my first year of Computer Science.
+💻  I started programming games when I was 12 years old. Between the ages of 13 and 14 I tried to learn as much as I could about Web Development. At 16, I started competitive programming (using C++) and since there i never stopped.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+You can reach me via the following:
+ Discord: Mário Rodrigues#5799 - you can usually find me programming.
+ Email: mjsrodrigues4@gmail.com
+ Twitter: @MarioRodrigu140 
+ 
