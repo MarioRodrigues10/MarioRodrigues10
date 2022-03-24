@@ -10,5 +10,5 @@ I'm Mário Rodrigues*. Before you dive into my profile, here are a few things I 
 You can reach me via the following: </br>
  Discord: Mário Rodrigues#5799 - you can usually find me programming. </br>
  Email: mjsrodrigues4@gmail.com </br>
- Twitter: @MarioRodrigu140  </br>
+ Twitter: @MarioWhileCode  </br>
  
