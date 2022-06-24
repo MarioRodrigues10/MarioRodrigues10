@@ -14,3 +14,7 @@ You can reach me via the following: </br>
  
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=mariorodrigues10&count_private=true&theme=tokyonight&show_icons=true)
 ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariorodrigues10&layout=compact&theme=tokyonight&langs_count=6)
+
+
+If you want to find out more about me:
+`` npx mariorodriguess `
