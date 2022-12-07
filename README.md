@@ -11,7 +11,8 @@ You can reach me via the following: </br>
  Discord: Mário Rodrigues#5799 - you can usually find me programming. </br>
  Email: mjsrodrigues4@gmail.com </br>
  Twitter: @MarioWhileCode  </br>
- 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 If you want to find out more about me:  </br>
 `npx mariorodriguess` 
