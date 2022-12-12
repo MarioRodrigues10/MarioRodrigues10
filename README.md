@@ -12,7 +12,6 @@ You can reach me via the following: </br>
  Email: mjsrodrigues4@gmail.com </br>
  Twitter: @MarioWhileCode  </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MarioRodrigues10&theme=dark)](https://git.io/streak-stats)
 
 If you want to find out more about me:  </br>
 `npx mariorodriguess` 
