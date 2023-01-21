@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Mário Rodrigues*. Before you dive into my profile, here are a few things I want you to know about me!
+I'm **Mário Rodrigues**. Before you dive into my profile, here are a few things I want you to know about me!
 
 💁‍♂️‍ I am a 19-year-old ! <br />
 📖  I am a student at Universidade do Minho in Braga, PT.  <br />
